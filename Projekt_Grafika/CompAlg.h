@@ -1,4 +1,6 @@
-#pragma once
+#ifndef CompAlg_h
+#define CompAlg_h
+
 class CompAlg
 {
 public:
@@ -6,3 +8,4 @@ public:
 	~CompAlg();
 };
 
+#endif 
